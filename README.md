@@ -4,9 +4,7 @@
 
 ### 杀马特电视 · shamate-tv
 
-<img align="right" width="300" src="https://blog.shamate-tv.top/avatar.jpg" alt="avatar">
-
-- 在 B 站 Toy 平台做了《**FX 战士久留美模拟器**》——真实行情、外汇/美股/港股三市场撮合，累计 **2.8 万+ 游玩**。
+- 在 B 站 Toy 平台做了《**FX 战士久留美模拟器**》——真实行情、外汇/美股/港股三市场撮合，累计 **3.2 万+ 游玩**。
 - 顺手把它背后的基建也搭了：Cloudflare Worker 行情反代（月 **19.7 万请求 / 零错误**）、Durable Object WebSocket 代理、Cloudflare Tunnel 公网入口、自己的域名与四个子站。
 - 也在做小东西：增城文旅导览、记忆曲线复习助手、给朋友做的桌宠、AstrBot 网易云一起听歌插件。
 - **没上过编程课。**2024 年用 Dreamweaver 拖控件，在免费虚拟主机上搭出第一个博客；2026 年才用 AI 协作写 React + TypeScript。
@@ -14,7 +12,6 @@
 
 我的信条：**做个看着不正经、其实很较真的东西，然后真的有人玩。**
 
-<br clear="right">
 <hr>
 
 🚀 找到我
@@ -24,7 +21,7 @@
 - ⌈ API 文档 ⌋：[api.shamate-tv.top](https://api.shamate-tv.top)
 
 ⚙️ 在做的项目
-- [Fx_Fighter_Kurumi-chan_emulator](https://github.com/shamate-tv/Fx_Fighter_Kurumi-chan_emulator) — 真实行情炒股模拟器：FastAPI 后端 + 三市场撮合 + Toy 前端，2.8 万+ 游玩。
+- [Fx_Fighter_Kurumi-chan_emulator](https://github.com/shamate-tv/Fx_Fighter_Kurumi-chan_emulator) — 真实行情炒股模拟器：FastAPI 后端 + 三市场撮合 + Toy 前端，3.2 万+ 游玩。
 - **粤讲粤明 · 广府通识闯关**（微信小程序，进行中）— 粤语跟读 + 地标集章 + 广府通识题，WechatSI 发音判定。
 - [Zengcheng-Tourism-AI-Guide](https://github.com/shamate-tv/Zengcheng-Tourism-AI-Guide) — 增城文旅导览，2026 增城区数字素养大赛作品，AI 协作 2 小时完成。
 - [memory-curve-study-assistant](https://github.com/shamate-tv/memory-curve-study-assistant) — 高中必修一、二知识点的间隔重复复习助手。
